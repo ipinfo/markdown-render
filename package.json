@@ -1,0 +1,23 @@
+{
+  "name": "markdown-render",
+  "version": "1.0.1",
+  "description": "simple markdown renderer with syntax highlighting",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "markdown",
+    "render",
+    "simple",
+    "syntax",
+    "highlighting"
+  ],
+  "author": "Matthew Mueller",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "10.7.3",
+    "markdown-toc": "ssh://git@github.com:ipinfo/markdown-toc.git",
+    "remarkable": "ssh://git@github.com:ipinfo/remarkable.git"
+  }
+}
