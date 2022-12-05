@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "highlight.js": "10.7.3",
-    "markdown-toc": "ssh://git@github.com:ipinfo/markdown-toc.git",
-    "remarkable": "ssh://git@github.com:ipinfo/remarkable.git"
+    "markdown-toc": "github:ipinfo/markdown-toc",
+    "remarkable": "github:ipinfo/remarkable"
   }
 }
