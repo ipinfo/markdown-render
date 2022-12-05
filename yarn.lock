@@ -265,9 +265,15 @@ readable-stream@^2.2.2:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
-"remarkable@github:ipinfo/remarkable", "remarkable@github:ipinfo/remarkable#master":
+"remarkable@github:ipinfo/remarkable":
   version "2.0.1"
-  uid "6c0c9f8ea1abd672c20e1d76ebe78f515fbd9a4f"
+  resolved "https://codeload.github.com/ipinfo/remarkable/tar.gz/897b8cba5b3f9cce0e6924a58a6cec4f499f3f96"
+  dependencies:
+    argparse "^1.0.10"
+    autolinker "^3.11.0"
+
+"remarkable@github:ipinfo/remarkable#master":
+  version "2.0.1"
   resolved "https://codeload.github.com/ipinfo/remarkable/tar.gz/6c0c9f8ea1abd672c20e1d76ebe78f515fbd9a4f"
   dependencies:
     argparse "^1.0.10"
